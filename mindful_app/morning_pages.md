@@ -9,11 +9,17 @@ Morning Pages are a daily practice of writing for 10 minutes to reflect on your 
 - Allow users to type their Morning Pages directly into the app
 - Provide a simple and distraction-free text editor
 - Save the text input automatically to prevent data loss
+- Start a timer when the user begins typing, with a maximum of five minutes
 
 ### Image Upload
 - Allow users to upload images of their handwritten Morning Pages
 - Provide an option to add a title or description to the uploaded images
 - Store the uploaded images securely in Google Cloud Storage
+
+### Audio Recording
+- Allow users to record audio of their Morning Pages
+- Ensure the audio recording is at least two minutes long
+- Store the audio recordings securely in Google Cloud Storage
 
 ### Viewing and Editing
 - Allow users to view and edit their previous Morning Pages

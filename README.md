@@ -1,5 +1,5 @@
-# mindful
-My 25-day course
+# Kokoro
+Mindfulness for Modern Life
 
 ## Features
 
@@ -19,7 +19,17 @@ My 25-day course
 - Integration with other health and wellness apps to provide a holistic experience
 
 ### Morning Pages
-- Create and upload daily Morning Pages, including text input and image upload functionality
+- Create and upload daily Morning Pages, including text input, image upload, and audio recording functionality
+- Timer feature for text input with a maximum of five minutes
+
+### Meditate
+- Screen with a Play button for meditation
+- Progress bar to show the remaining time of the meditation
+- Button that appears after meditation completion, labeled "My Daily Insights"
+
+### Daily Insights
+- Screen that displays useful information gleaned from the user's Morning Pages
+- Insights related to common or recurring themes, patterns, tasks, and actions
 
 ### Recommended Stack
 - Frontend: Flutter for building a cross-platform mobile app
